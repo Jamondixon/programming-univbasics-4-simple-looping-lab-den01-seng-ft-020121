@@ -2,7 +2,7 @@
 def loop_message_five_times(computer)
   count = 0
   while count < (5)
-    puts ("computer")
+    puts (computer)
     count += 1
   end
 end
@@ -10,7 +10,7 @@ end
 def loop_message_n_times(hello_moon, number)
   count = 0
   while count < (8) do
-    puts ("hello_moon.")
+    puts (hello_moon)
     count += 1
   end
 end
