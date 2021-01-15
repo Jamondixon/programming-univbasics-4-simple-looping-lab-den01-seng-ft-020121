@@ -1,15 +1,15 @@
 # Write your methods here
-def loop_message_five_times(hello_world)
+def loop_message_five_times(computer)
   count = 0
-  while true do
-  puts "hello world"
-  count += 1
+  while count < (5)
+    puts ("computer")
+    count += 1
   end
 end
 
 def loop_message_n_times(hello_moon, number)
   count = 0
-  while count < 8 do
+  while count < (8) do
     puts ("hello moon.")
     count += 1
   end
